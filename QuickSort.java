@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Quicksort{
+class QuicksSort{
 
   
   static int partition(int array[], int low, int high) {
@@ -59,6 +59,7 @@ class Quicksort{
   }
 
 }
+
 
 
 
